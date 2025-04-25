@@ -21,7 +21,7 @@ config_folder=~/printer_data/config
 Path to your Klipper folder, by default that is '~/klipper'
 klipper_folder=~/klipper
 
-### Path to your Moonraker folder, by default that is '~/moonraker'
+Path to your Moonraker folder, by default that is '~/moonraker'
 moonraker_folder=~/moonraker
 
 ### Path to your Mainsail folder, by default that is '~/mainsail'
